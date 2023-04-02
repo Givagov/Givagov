@@ -1,9 +1,3 @@
-# Givago Valente de Azevedo
-
-### Trabalho há 13 anos com logística e estou me preparando para migrar para a área de tecnologia!
-
-#### Tenho 32 anos, sou natural de Ipatinga-MG e atualmente moro em Vitória-ES.
-
 <div>
 <a href="https://github.com/Givagov">
 <!---<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Givagov&layout=compact&langs_count=7&theme=default"/>---!>
